@@ -1,7 +1,7 @@
 # Predicting Biomolecular Structure from Language Model attention
 
 
-## INSTALATION
+## INSTALLATION
 
 To repeat analysis install and run the Python scripts inside the conda environment:
 
