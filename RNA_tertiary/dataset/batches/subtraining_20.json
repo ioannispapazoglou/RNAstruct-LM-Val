@@ -1,0 +1,82 @@
+[
+    {
+        "PDBcode": "7l0z.ent",
+        "Sequence": "GGGAGUACGGUGAGGGUCGGGUCCAGUAGGUACGCCUACUGUUGAGUAGAGUGUGGGCUCCGUACUCCC"
+    },
+    {
+        "PDBcode": "2lbl_6.ent",
+        "Sequence": "GGGACCUUCCAAGUCUC"
+    },
+    {
+        "PDBcode": "3k1v.ent",
+        "Sequence": "AGAGGUUCUAGCCCCUCUAUAAAAAACUAA"
+    },
+    {
+        "PDBcode": "5uf3_8.ent",
+        "Sequence": "GGACAUAAGGAAAACCUAUGUCC"
+    },
+    {
+        "PDBcode": "2n0j_10.ent",
+        "Sequence": "GGCUGCUUGUCCUUUAAUGGUCCAGUC"
+    },
+    {
+        "PDBcode": "6k84_10.ent",
+        "Sequence": "GGAGGAGGAGGAAGGAGGAGGAGGA"
+    },
+    {
+        "PDBcode": "7rwr_10.ent",
+        "Sequence": "GGAUACACAAGAGUGAUUGAAACUAAGUCUGUGUAUCC"
+    },
+    {
+        "PDBcode": "6hc5.ent",
+        "Sequence": "GGUGGGGACGACCCCAC"
+    },
+    {
+        "PDBcode": "2f88_6.ent",
+        "Sequence": "GAGCCGUGUGCGAUGAAAGUCGCAAGCACGGUUC"
+    },
+    {
+        "PDBcode": "2g1w_5.ent",
+        "Sequence": "GGGGUGGCUCCCCUAACAGCCG"
+    },
+    {
+        "PDBcode": "2hop.ent",
+        "Sequence": "GCGACUCGGGGUGCCCGCGUGAAGGCUGAGAAAUACCCGUAUCACCUGACUGGAUAAUGCCAGCAGGGAAGUCGCA"
+    },
+    {
+        "PDBcode": "4qlm.ent",
+        "Sequence": "AUCGCUGAACGCGGGGGACCCAGGGGGCGAAUCUCUUCCGAAAGGAAGAGUAGGGUUACUCCUUCGACCCGAGCCCGUCAGCUAACCUCGCAAGCGUCCGAAGGAGAA"
+    },
+    {
+        "PDBcode": "2l9e_3.ent",
+        "Sequence": "GCAGACUUUAUCUGC"
+    },
+    {
+        "PDBcode": "1i9v.ent",
+        "Sequence": "GCGGAUUUAGCUCAGUUGGGAGAGCGCCAGACUGAAAUCUGGAGGUCCUGUGUCGAUCCACAGAAUUCGCACCA"
+    },
+    {
+        "PDBcode": "1atw_3.ent",
+        "Sequence": "GCUCCAGAUGGAGCG"
+    },
+    {
+        "PDBcode": "7exy_8.ent",
+        "Sequence": "UUGGUUUGAUUCCAAG"
+    },
+    {
+        "PDBcode": "3dhs.ent",
+        "Sequence": "GUUAAUCAUGCUCGGGUAAUCGCUGCGGCCGGUUUCGGCCGUAGAGGAAAGUCCAUGCUCGCACGGUGCUGAGAUGCCCGUGCGAGAAACCCAAAAGGGGCACCUUCCCGAAGGAAAUGAACGGAGGGAAGGACAGGCGGCGCAUGCAGCCUGUAGAUAGAUGAUUACCGCCGGAGUACGAAGGUACAGAACAUGGCUUAUAGAGCAUGAUUAAC"
+    },
+    {
+        "PDBcode": "2mn0_5.ent",
+        "Sequence": "GGAGAGGGAACUCC"
+    },
+    {
+        "PDBcode": "2rpt_6.ent",
+        "Sequence": "GGCCCGCCGAAAGGCCGGCC"
+    },
+    {
+        "PDBcode": "7kvt.ent",
+        "Sequence": "GGAAGAUACAAGGUGAGCCCAAUAAUAUGGUUUGGGUUAGGAUAGGAAGUAGAGCCUUAAACUCUCUAAGCGGUAUCUUCCC"
+    }
+]

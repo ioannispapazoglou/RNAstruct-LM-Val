@@ -1,0 +1,162 @@
+[
+    {
+        "GeneralID": "G038146",
+        "Length": 381,
+        "Sequence": "GAGGAAAGUCCGGGCUCCAUAGGGCAGGGCGCUCGUCGAGACUGGCGGCGGAAGUUCGCCAGUCAAGGCGAGGGAGUUGCUCCGGCGAGAUGCUGGGGCAACUUCGGAAAGUGCCACAGAAACCAUACCGCCGUCGGGCUAAGCGGCACUGUGGCUUCCGCUGCCAGCCGCUGCAGUGUUCGCGUUUCCCGGCGGUAAGGGUGAAAUGGUGGGGUAAGAGCCCACCAGCACGACCGCGAGGUCGUGGCUGGGCAAACCCCGCCCGGAGCAAGACCAAAUAGGGGGCGCUAUCAGGUUGCCCGCCGAUGCCCCCGGGUCGGUCGCUUAGAGAAAUGGUCGCCAGCGUCAGGGCUAAAACCUGACGCCACAGAACCCGGCUUA",
+        "S_structure": ".....(((.(((((((((...[[[[.(((((((((((..(((((((((.......)))))))))..)))).))((((((((((((((...))))))))))))).)((...(((((............(((((((((((..(.(((((((((((((....(((...))).))))))))).)))).)..)))))))))..)).......((((((.......))))))(((((((((....))))))).)).)))..)))))))))))))...((((.....((((((....((.(((.]]]]))))).)))))).....))))....................((((((((.......)))))))).......)))))))).",
+        "Dataset": "ArchiveII",
+        "InternalID": "RNaseP_PF101.dbn"
+    },
+    {
+        "GeneralID": "G001523",
+        "Length": 273,
+        "Sequence": "GUUCGGAUGACUAACGACCAUCUGUUACCUCAAGGUGAGGGAACUUAAGAAUUGGAAUUGGCUACUCGGAAUGUUUGAUCGUCUGAGACUACCCCAACCCAUAUCUUCGUGCAUCACUGUGUGUCUUUCGGAUGGAGGGCAACUGGGGAUGGUAAGGAACAGGGUACUGCGUGAGGCCGGCAACGGAGCAACGAAAACCUGUCCACGGAUGAUAGACCUGGGUUGAAAAGGAUGUCGAGAUCUUGCGGACCUUGUGGGUGGAACUGAUUCUUU",
+        "S_structure": "(((((((((..(...)..)))))....(((((...)))))))))..(((((((((..(((.((((..((..(((..(((..(.(..(((.....(..(((((((.((((((((((.(((..((((((((....))))))))..))).)))).(...).(((((....(.(((....(((....)))....))).)..))))).))))))..)))....)))).......)...)))).))))..)))..))..)))).)))..))))))))).",
+        "Dataset": "RNAStralign",
+        "InternalID": "Enta.mosh._GSP-41668.dbn"
+    },
+    {
+        "GeneralID": "G110103",
+        "Length": 148,
+        "Sequence": "GACGUGAUAUACUUUUAUAGAGGGAGGGGAGUUUCACCCCUCUGGUUACUUGUCCUUGUUUUUGUCUAUCUUGCGUAAUGUUAUCAGCGCUACUGCAAGAGUUACAAUUUCAAGGACUGUUUUUAUUUCCUCUAAGAUGUCUUUCACU",
+        "S_structure": "...((((..........((((((((((((.......)))))).........(((((((...(((((.((((((((((.(((.....))).))).))))))).)))))...)))))))...........)))))).........)))).",
+        "Dataset": "bpRNA-1m",
+        "InternalID": "bpRNA_RFAM_26601.dbn"
+    },
+    {
+        "GeneralID": "G061085",
+        "Length": 93,
+        "Sequence": "CAUCCCAACGGUUGUCGAUGGGUGUGAAUCUAGUGUUUCACAUGAUUUUCGAUAGCCUGUGACUAGAUCCACACUCAUUAACAAAAGUUGCCG",
+        "S_structure": "....(((((((((((((((((((((((((((((....(((((...............))))))))))))))))))))))))))))))))))..",
+        "Dataset": "bpRNA-1m",
+        "InternalID": "bpRNA_RFAM_20783.dbn"
+    },
+    {
+        "GeneralID": "G078783",
+        "Length": 64,
+        "Sequence": "CUUAAGUUUUUGCCGUUUACCCAGCUGAGUGUUUCUUUGAAGAGAGAAUCUUAAAAGACUGAGA",
+        "S_structure": "................................................................",
+        "Dataset": "bpRNA-1m",
+        "InternalID": "bpRNA_RFAM_14318.dbn"
+    },
+    {
+        "GeneralID": "G047713",
+        "Length": 26,
+        "Sequence": "UCAACGGUAGAGUACUCGGCUUUUAA",
+        "S_structure": "((.......))...............",
+        "Dataset": "bpRNA-1m",
+        "InternalID": "bpRNA_CRW_42429.dbn"
+    },
+    {
+        "GeneralID": "G052164",
+        "Length": 194,
+        "Sequence": "CUAGAUAUAGGUGCUUCAGGUGCUCGGCGGAAUCAUCCGCCGGCAAGAGGGAAGCCGGUGAAAAGCCGGCACUGCCCCCGCAACUGUAAGCGGCGCGCGAGGCCGAUCAUGCCACUGGGGCUGCCACCCCGGGAAGGCCGGUCAAGCGGGACCCGCCGCGAGUCAGGAGACCUGCCGGAAGCAACAGGAUUUGA",
+        "S_structure": "...............((((((...(((............))).....(((...(((((.......)))))..(((....))).(((...((((......((((((.....(((.((((((......))))))...)))))))))...........))))....)))....)))))))))...............",
+        "Dataset": "bpRNA-1m",
+        "InternalID": "bpRNA_RFAM_9020.dbn"
+    },
+    {
+        "GeneralID": "G067218",
+        "Length": 72,
+        "Sequence": "UGUAGUCCGUGGAAUGGCGUUUCCACUAAUUCAAACCGCCGGCUGAAGCUGGCUGAUGACGCCUGCUUGAAA",
+        "S_structure": "...............((((((................((((........))))....)))))).........",
+        "Dataset": "bpRNA-1m",
+        "InternalID": "bpRNA_RFAM_31830.dbn"
+    },
+    {
+        "GeneralID": "G082500",
+        "Length": 74,
+        "Sequence": "GGCUACGUAGCUCAGUUGGUUAGAGCACAUCACUCAUAAUGAUGGGGUCACAGGUUCGAAUCCCGUCGUAGCCA",
+        "S_structure": "(((((((..((((.........))))((((((.......))))))....(((((.......)))))))))))).",
+        "Dataset": "bpRNA-1m",
+        "InternalID": "bpRNA_CRW_43802.dbn"
+    },
+    {
+        "GeneralID": "G140073",
+        "Length": 142,
+        "Sequence": "UUGUCCACUGGAGUUCUCCUCAAUCCACUUCAGUAGAUAGCUAUGGCUAGGCCUCAUUGCAUUGCACUGUUACAUAACUGUGAUCAUGGGGCCAAAAGCUAGCUAUGUAUAGUGAAGUGCUUGGGGGAACUCCAGUUGACAC",
+        "S_structure": "....(((((.((((((((((.(((.((((((((((((......................................................................))))))))))))))))))))))))).)))))....",
+        "Dataset": "bpRNA-1m",
+        "InternalID": "bpRNA_RFAM_14567.dbn"
+    },
+    {
+        "GeneralID": "G032493",
+        "Length": 74,
+        "Sequence": "GGGACUAUAGUUUAGUUGGAUAUAACGACCGGCUACGAACCGGUAGGUCUCAGGUUCGACCCCUGAUGGUCUCG",
+        "S_structure": "(((((((..(((...........))).(((((.......))))).....(((((.......)))))))))))).",
+        "Dataset": "RNAStralign",
+        "InternalID": "tdbD00002582.dbn"
+    },
+    {
+        "GeneralID": "G046837",
+        "Length": 98,
+        "Sequence": "GAUUACAAUAGAUUUAGCGUAUUUAUACGCUGUUUUAUGGUAGAAUGUUUCGCACUUUAGCGAGGAAUGGAAACAUUCUAUGGGAGCGUUGUCUGCGG",
+        "S_structure": "..((((...((((..(((((......)))))))))....))))((((((((.(((((....)))(((((....)))))..))))))))))........",
+        "Dataset": "bpRNA-1m",
+        "InternalID": "bpRNA_RFAM_26484.dbn"
+    },
+    {
+        "GeneralID": "G058417",
+        "Length": 98,
+        "Sequence": "AGAUACACGAGAUAUUGAUACGGUUCAAUUAGAAAGCUGUGUUCUAAGUUAAGAACUCUGUUGUUUGAUUGAGCCGUGCCAAUAUCACGUCCUACUUC",
+        "S_structure": ".......(..(((((((((..((((((.((....................................)).))))))..)))))))))..).........",
+        "Dataset": "bpRNA-1m",
+        "InternalID": "bpRNA_RFAM_18815.dbn"
+    },
+    {
+        "GeneralID": "G051207",
+        "Length": 26,
+        "Sequence": "UUGGGAAGUCCUCGUGUUGCAUUCCC",
+        "S_structure": "..........................",
+        "Dataset": "bpRNA-1m",
+        "InternalID": "bpRNA_CRW_19564.dbn"
+    },
+    {
+        "GeneralID": "G053779",
+        "Length": 71,
+        "Sequence": "ACAUAGGCCUUUAUAAUACAACCUGAUAAGUGUUAUAACACUUACCAGAUUGUAUUGUAAUUGUCUGUGUA",
+        "S_structure": ".(((((((....(((((((((((((((((((((....)))))))))))))))))))))....)))))))..",
+        "Dataset": "bpRNA-1m",
+        "InternalID": "bpRNA_RFAM_21459.dbn"
+    },
+    {
+        "GeneralID": "G076933",
+        "Length": 370,
+        "Sequence": "UGGGUCGGCAAGACGGUCGCGUCGGUCUGCGUCAGCGGGCCGCCGAGGAACGUCCGGGCUCCGCAGAGCAGGGCGGUGGGUAACACCCACCCGGGGCAACCCGCGAGAAAGUGCAACAGAGAGCAGACCGCCACGGGCUCCGGCCCGCGGUAAGGGUGAAACGGUGGUGUAAGAGACCACCAGCGGCCGGGGCGACCCGGCCGGCUGGGUAAACCUCGCCCGGAGCAAGGUCAGACAGGGAACGAUGGGGUGGCUCGCUCCGUUCCCGGGUAGACCGCUAGAGGGCGGCGGCGACGUCGUCCCGAGAGAGAUGGCCGUCCACGGCGCGCAAGCGCCGUGACAGAACCCGGCGUAUCAGCCGGCCCAUUCC",
+        "S_structure": ".(((((((((([[[[[[[.(((((((((........)))))))))....(((.(((((((((...[[[[.((((((((((.....)))))(((((....)))).)((...(((((............(((((((((((....)))))))))..)).......((((((.......)))))).(((((((((....)))))))).)..)))..)))))))))))))...((((.....((((((...(((((.]]]]))))))))))).....))))......((((((((....))))))))..........]]]]]]]..........................)))))))).).))))))))).....",
+        "Dataset": "bpRNA-1m",
+        "InternalID": "bpRNA_RFAM_2466.dbn"
+    },
+    {
+        "GeneralID": "G063461",
+        "Length": 72,
+        "Sequence": "UGUAAAUACCCUCCUUGGGUGUUUCCUCCCUAGACUUAGCCGCGCUCACAAGCGCGGUUUUUUUUGGCCGGG",
+        "S_structure": ".......((((.....))))...................(((((((....)))))))...............",
+        "Dataset": "bpRNA-1m",
+        "InternalID": "bpRNA_RFAM_15894.dbn"
+    },
+    {
+        "GeneralID": "G125103",
+        "Length": 152,
+        "Sequence": "AUGUGCGUGAAGAAAUACCAUCCUUGCUCUGCGAGGCGAUGGACACACACUCGAGAACCCUGCGGAGGUACCGUAGCAACGGGUUACAGUAACCGAAGCAGUCGAUUCUCUAGUGGUUCUUCGCCGGUGAACAGUUAUGGCCUCUGACACAU",
+        "S_structure": ".(((................................................................................................................................................))).",
+        "Dataset": "bpRNA-1m",
+        "InternalID": "bpRNA_RFAM_27236.dbn"
+    },
+    {
+        "GeneralID": "G046721",
+        "Length": 101,
+        "Sequence": "CCAAUAGCCGGCUAGGGUUCCGGCUCGCCACAGGCGAGCGACUGGUCCGAGAGCUAGCGACCUCCAGCGAGGUUACACGGCGGGACAAAAGCCCGGGAGAA",
+        "S_structure": "......(((((((.........((((((.....))))))............))))))).(((((....)))))............................",
+        "Dataset": "bpRNA-1m",
+        "InternalID": "bpRNA_RFAM_14422.dbn"
+    },
+    {
+        "GeneralID": "G028946",
+        "Length": 73,
+        "Sequence": "GCUUCCAUAGCUCAGUCGGUAGAGCACUACCAUGGUAAGGUAGGGGUCAGCGGUUCAAGUCCGCUUGGAAGCU",
+        "S_structure": "(((((((..((((........)))).(((((.......))))).....(((((.......)))))))))))).",
+        "Dataset": "RNAStralign",
+        "InternalID": "tdbD00010604.dbn"
+    }
+]

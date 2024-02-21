@@ -1,0 +1,962 @@
+[
+    {
+        "PDBcode": "2gio_8.ent",
+        "Sequence": "GGCCAUCUUGCUCUUCGGAGGAUUUGGCC"
+    },
+    {
+        "PDBcode": "6xb7_7.ent",
+        "Sequence": "GGAUCAAUAGCAGGUGUGGCACACCAGUCAUACCUUGAUCC"
+    },
+    {
+        "PDBcode": "1cql_10.ent",
+        "Sequence": "GGCGUUUACCAGGUCAGGUCCGGAAGGAAGCAGCCAAGGCGCC"
+    },
+    {
+        "PDBcode": "1ebq_2.ent",
+        "Sequence": "GGUGGGCGCAGCUUCGGCUGCGGUACACC"
+    },
+    {
+        "PDBcode": "5tpy.ent",
+        "Sequence": "GGGUCAGGCCGGCGAAAGUCGCCACAGUUUGGGGAAAGCUGUGCAGCCUGUAACCCCCCCACGAAAGUGGG"
+    },
+    {
+        "PDBcode": "2meq_9.ent",
+        "Sequence": "GGCCGUAACUAUAACGGUC"
+    },
+    {
+        "PDBcode": "6t3n.ent",
+        "Sequence": "GUUAUUGUGCCCGGCAUGGGUGCAGUCUAUAGGGUGAGAGUCCCGAACUGUGAAGGCAGAAGUAACAGUUAGCCUAACGCAAGGGUGUCCGUGGCGACAUGGAAUCUGAAGGAAGCGGACGGCAAACCUUCGGUCUGAGGAACACGAACUUCAUAUGAGGCUAGGUAUCAAUGGAUGAGUUUGCAUAACAAAACAAAGUCCUUUCUGCCAAAGUUGGUACAGAGUAAAUGAAGCAGAUUGAUGAAGGGAAAGACUGCAUUCUUACCCGGGGAGGUCUGGAAACAGAAGUCAGGAGAAGUCAUAGUACCCUGUUCGCAGGGGAAGGACGGAACAAGUAUGGCGUUCGCGCCUAAGCUUGAACGGCCGUAUACCGAACGGUACGUACGGUCGUGUG"
+    },
+    {
+        "PDBcode": "6ugj.ent",
+        "Sequence": "GGAGCGGGCGGGUAGUCCCGUCCGUUCC"
+    },
+    {
+        "PDBcode": "1i9v.ent",
+        "Sequence": "GCGGAUUUAGCUCAGUUGGGAGAGCGCCAGACUGAAAUCUGGAGGUCCUGUGUCGAUCCACAGAAUUCGCACCA"
+    },
+    {
+        "PDBcode": "6k84_10.ent",
+        "Sequence": "GGAGGAGGAGGAAGGAGGAGGAGGA"
+    },
+    {
+        "PDBcode": "2euy_2.ent",
+        "Sequence": "GGCCUUAGGAAACAGUUCGCUGUGCCGAAAGGUC"
+    },
+    {
+        "PDBcode": "1u2a_1.ent",
+        "Sequence": "GGUCAGUGUAACAACUGACC"
+    },
+    {
+        "PDBcode": "2l1v_2.ent",
+        "Sequence": "GGAGAGGUUCUAGUUAUACCCUCUAUAAAAAACUAA"
+    },
+    {
+        "PDBcode": "1et4_E.ent",
+        "Sequence": "GGAACCGGUGCGCAUAACCACCUCAGUGCGAGCAA"
+    },
+    {
+        "PDBcode": "6vvj_17.ent",
+        "Sequence": "GUCUCUCUUGUUAGACCAGGUCGAGCCCGGGAGCUCUCUGGCUAGCAAGGAACCCACUGCUUAAGCCUCAAUAAAGCUUGCCUUGAGUGCCUCAAGCAGUGUGUGCCCAUCUCGAGAGAGAUGGGUGCG"
+    },
+    {
+        "PDBcode": "7uri_1.ent",
+        "Sequence": "GGAGGGGAAAUUCUAUCUGGUGAUAGACGGGAACUCUAAAUUCCUUGAAAUGCCUCGCCGCAUUGGGUUCGAUUCCCUUCCCCUCCGCCA"
+    },
+    {
+        "PDBcode": "1kpd_1.ent",
+        "Sequence": "GGCGCAGUGGGCUAGCGCCACUCAAAGGCCCG"
+    },
+    {
+        "PDBcode": "2rlu_7.ent",
+        "Sequence": "GGUUGCGGGUCUCGCAACC"
+    },
+    {
+        "PDBcode": "2jtp_6.ent",
+        "Sequence": "GGAUGGGGAAAGAAGCCCCGCAAUUUCCCCAUCC"
+    },
+    {
+        "PDBcode": "3ivn_A.ent",
+        "Sequence": "GGCCAGUAUAACCUCAAUGAUAUGGUUUGAGGGUGUCUACCAGGAACCGUAAAAUCCUGACUACUGGUC"
+    },
+    {
+        "PDBcode": "2jwv_8.ent",
+        "Sequence": "GAUACUUGAAACUGUAAGGUUGGCGUAUC"
+    },
+    {
+        "PDBcode": "6hyk_10.ent",
+        "Sequence": "GGCACGGUGAUGACCUUCGGGUCUGAGUGCC"
+    },
+    {
+        "PDBcode": "4a4s_7.ent",
+        "Sequence": "GGACCCGGCUCACGCUGGGUCC"
+    },
+    {
+        "PDBcode": "1ato_5.ent",
+        "Sequence": "GGCACCUCCUCGCGGUGCC"
+    },
+    {
+        "PDBcode": "5uf3_8.ent",
+        "Sequence": "GGACAUAAGGAAAACCUAUGUCC"
+    },
+    {
+        "PDBcode": "1p5o_11.ent",
+        "Sequence": "GGCUGUGAGGAACUACUGUCUUCACGCAGAAAGCGUCUAGCCAUGGCGUUAGUAUGAGUGUCGUGCAGCCUCCAGCC"
+    },
+    {
+        "PDBcode": "3f2y.ent",
+        "Sequence": "GAUCUUCGGGGCAGGGUGAAAUUCCCGACCGGUGGUAUAGUCCACGAAAGUAGCUUUGAUUUGGUGAAAUUCCAAAACCGACAGUAGAGUCUGGAUGAGAGAAGAUU"
+    },
+    {
+        "PDBcode": "7k4l_1.ent",
+        "Sequence": "GGAGUGGUUAGUCUACGUUUCGACGUAGUUCUAACC"
+    },
+    {
+        "PDBcode": "1kpy_5.ent",
+        "Sequence": "UCCGGUGACUCCGGAGAAACAAAGUCA"
+    },
+    {
+        "PDBcode": "7oa3_B.ent",
+        "Sequence": "GCUAGCUGGAGGGGCGCCAGUUCGCUGGUGGUUGGGUGCGGUCGGCUAGCC"
+    },
+    {
+        "PDBcode": "1afx_7.ent",
+        "Sequence": "GGUGUGAACACC"
+    },
+    {
+        "PDBcode": "4frn_A.ent",
+        "Sequence": "GGGCUAAAAGCAUGGUGGGAAAGUGACGUGUAAUUCGUCCACAUUACUUGAUACGGUUAUACUCCGAAUGCCACCUAGCCCAAAGUAGAGCAAGGAGACUCA"
+    },
+    {
+        "PDBcode": "7d81.ent",
+        "Sequence": "GGUUUCAACAUCCCCGUUCGGCGCUCGAAAGAGGUGGCCGGACUGAAGCC"
+    },
+    {
+        "PDBcode": "2krl_2.ent",
+        "Sequence": "GGACGGUGGCAGCACUGUCUAGCUGCGGGCAUUAGACUGGAAAACUAGUGCUCUUUGGGUAACCACUAAAAUCCCGAAAGGGUGGGCUGUGGUGACCCUCCG"
+    },
+    {
+        "PDBcode": "4frg_B.ent",
+        "Sequence": "GGCCUAAAAGCAUAGUGGGAAAGUGACGUGAAAUUCGUCCAGAUGCGAAAGCAUACGGUUAUACUCCGAAUGCCACCUAGGCCA"
+    },
+    {
+        "PDBcode": "1aqo_7.ent",
+        "Sequence": "GGAGUGCUUCAACAGUGCUUGGACGCUCC"
+    },
+    {
+        "PDBcode": "2nc0_4.ent",
+        "Sequence": "GGGCUGAAGGAUGGAGACGUCUAGGCCC"
+    },
+    {
+        "PDBcode": "1atw_3.ent",
+        "Sequence": "GCUCCAGAUGGAGCG"
+    },
+    {
+        "PDBcode": "361d_A.ent",
+        "Sequence": "CUGGGCGGGCGACCGCCUGG"
+    },
+    {
+        "PDBcode": "1nbk_1.ent",
+        "Sequence": "GGGAGCUUGAUCCCGGAAACGGUCGAUCGCUCCC"
+    },
+    {
+        "PDBcode": "8d5o_B.ent",
+        "Sequence": "GGCGAUACCAGCCGAAAGGCCCUUGGCAGCGCC"
+    },
+    {
+        "PDBcode": "7kju.ent",
+        "Sequence": "GGCCCGUAGCUCAGUCUGGCAGAGCGCCUGGCUUUUAACCAGGUGGUCGAGGGUUCAAAUCCCUUCGGGCCCGCC"
+    },
+    {
+        "PDBcode": "2mis_11.ent",
+        "Sequence": "GAGCUGCAGCACGAAAGUGACGGCUC"
+    },
+    {
+        "PDBcode": "2lun_3.ent",
+        "Sequence": "GGGCAGUGAUGCUUCGGCAUAUCAGCCC"
+    },
+    {
+        "PDBcode": "1lu3_1.ent",
+        "Sequence": "GCCAGACUGAAGACUG"
+    },
+    {
+        "PDBcode": "4y1o_A.ent",
+        "Sequence": "UUAUCCCGGCAUGGGUGCAGUCUAUAGGGUGAGAGUCCCGAACUGUGAAGGCAGAAGUAACAGUUAGCCUAACGCAAGGGUUCCGUGGAAACAUGGAAUCGAAGCGGACGGCAAACCUUCGGUCUGAGGAACACGAACUUCAUAUGAGGCUAGGUAUCAAUGGAUGAGUUUGCAUAACAAAACAAAGUCCUUUCUGCCAGUUGGUACAGAGUAAAUGAAGCAGAUUGAAGGGAAAGACUGCAUUCUUACCCGGGGAUC"
+    },
+    {
+        "PDBcode": "3dis.ent",
+        "Sequence": "GGCCGACGGAGGCGCGCCCGAGAUGAGUAGGCUGUCCCAUCAGGGGAGGAAUCGGGGACGGCUGAAAGGCGAGGGCGCCGAAGGGUGCAGAGUUCCUCCCGCUCUGCAUGCCUGGGGGUAUGGGGAAUACCCAUACCACUGUCACGGAGGUCUCUCCGUGGAGAGCCGUCGGU"
+    },
+    {
+        "PDBcode": "2hua_7.ent",
+        "Sequence": "GGCCUCCAGCGACGGCCUUCGGGACUAGCAAACGGAGGCC"
+    },
+    {
+        "PDBcode": "6ck5_B.ent",
+        "Sequence": "GUGAAAGUGUACCUAGGGUUCCAGCCUAUGUAGGUGUUCGGACCGAGCGGUACAGGUAUACCACACCUUAGGGACAAAAGCCCGGGAGGAUAGGUUUCAC"
+    },
+    {
+        "PDBcode": "2n4l_1.ent",
+        "Sequence": "GGAAUAUUUUUGCUGUACUUUCUAUAGUGAAUAGAGUUAGGCAGGGAUAUUCC"
+    },
+    {
+        "PDBcode": "6prv_B.ent",
+        "Sequence": "CCAGGAUGUUGGCUUAGAAGCAGCCAUCAUUUAAAGAAAGCGUAAUAGCUCACUGGU"
+    },
+    {
+        "PDBcode": "5kh8_8.ent",
+        "Sequence": "GGCGAUGGUGUUCGCCAUAAACGCUCUUCGGAGCUAAUGACACCUAC"
+    },
+    {
+        "PDBcode": "1tn2.ent",
+        "Sequence": "GCGGAUUUACUCAGGGGAGAGCCCAGAUAAAUGGAGUCUGUGCGUCCACAGAAUUCGCACCA"
+    },
+    {
+        "PDBcode": "2evy_4.ent",
+        "Sequence": "GGUAUGCUAGUACC"
+    },
+    {
+        "PDBcode": "6by4_18.ent",
+        "Sequence": "GGCACUUCGGUGCC"
+    },
+    {
+        "PDBcode": "1hwq_20.ent",
+        "Sequence": "GGUGCGAAGGGCGUCGUCGCCCCGAGCGCC"
+    },
+    {
+        "PDBcode": "1f79_1.ent",
+        "Sequence": "GGAAGUUCGGUCUUCGGACCGGCUUCC"
+    },
+    {
+        "PDBcode": "2ixy_12.ent",
+        "Sequence": "GGCCUCCAAGCUGUGCCUUGGGUGGCC"
+    },
+    {
+        "PDBcode": "6noa_7.ent",
+        "Sequence": "GGCAGUAUAGUCCGAACUGCAAAUCUUAUUUUCUUUUCACCUUCUCUCUAACUGCC"
+    },
+    {
+        "PDBcode": "6cu1.ent",
+        "Sequence": "GGUGGCUCACAUUUGUUGCGGGUUCGAGACCCGUCAGAGCGAAAGCUCUGUAGCUCAAUGGUAGAGCGGUGUAGUCACC"
+    },
+    {
+        "PDBcode": "1hs1_1.ent",
+        "Sequence": "GCGUUAACUCGCA"
+    },
+    {
+        "PDBcode": "8btz_1.ent",
+        "Sequence": "GGAAUAUCGUCAUGGUGAUUCGUCACCAUGAGGCUAGAUCUCAUAUCUAGCGCUUUCGAGCGCUAGAGUCCUUAUCUAGCCGGUUUAUACUUUCGAGUGUGAACCCGAUAUUCCGCGGAUCACUAUGAGUCGUUCGCGGCUCAUAGUCCGGCUCAAAGGACAUCAUGGCCUGUUCGCAGGUUGUGAUUAUGAGUGAGCCGGGUAAGGCAUACCGUUCGCGGUAUGUCUUACGAUCCGC"
+    },
+    {
+        "PDBcode": "2zy6.ent",
+        "Sequence": "GCCCGGAUAGUGUCCUUGGGAAACCGAGUCCGGGCACC"
+    },
+    {
+        "PDBcode": "1ikd_10.ent",
+        "Sequence": "GGGGCUCUUCGGAGCUCCACCA"
+    },
+    {
+        "PDBcode": "1ysv_5.ent",
+        "Sequence": "GGUAACAAUAUGCUAAAUGUUGUUACC"
+    },
+    {
+        "PDBcode": "2l2j_12.ent",
+        "Sequence": "GGUAAGGUGGGUGGAAUCCUUCGGGAUCCCACCUACCCUGCC"
+    },
+    {
+        "PDBcode": "1mt4_3.ent",
+        "Sequence": "GGCGUAACGUUGAAAAGUUACGCC"
+    },
+    {
+        "PDBcode": "3e5e.ent",
+        "Sequence": "UUCCCGAAAGGAUGGCGGAAACGCCAGAUGCCUUGUAACCGAAAGGGGGAAU"
+    },
+    {
+        "PDBcode": "2b57.ent",
+        "Sequence": "GACAUAUAAUCGCGUGGAUAUGGCACGCAAGUUUCUACCGGGCACCGUAAAUGUCCGAUUAUGUC"
+    },
+    {
+        "PDBcode": "1hlx_8.ent",
+        "Sequence": "GGGAUAACUUCGGUUGUCCC"
+    },
+    {
+        "PDBcode": "2nci_7.ent",
+        "Sequence": "GGACGUUAAAAGGCUUCGGCCUACGUCC"
+    },
+    {
+        "PDBcode": "1p5m_5.ent",
+        "Sequence": "GGCUGUGAGGAACUACUGUCUUCACGCCUUCGGGAGUGUCGUGCAGCCUCCAGCC"
+    },
+    {
+        "PDBcode": "2fdt_11.ent",
+        "Sequence": "GGUUGUACGUCGCUUUGGAUAAAAGCGUCUGCGACC"
+    },
+    {
+        "PDBcode": "7kvt.ent",
+        "Sequence": "GGAAGAUACAAGGUGAGCCCAAUAAUAUGGUUUGGGUUAGGAUAGGAAGUAGAGCCUUAAACUCUCUAAGCGGUAUCUUCCC"
+    },
+    {
+        "PDBcode": "1am0_6.ent",
+        "Sequence": "GGGAAGAAACUGUAGC"
+    },
+    {
+        "PDBcode": "1b36_9.ent",
+        "Sequence": "GGUGCAGAAACAGCGCUUCGGCGCGUAUAUUACGCACC"
+    },
+    {
+        "PDBcode": "7jrr.ent",
+        "Sequence": "GACGGGAGCUGAACCAUCCAGCGAAGAACGUCCCGACGGAUGGUUCGUCG"
+    },
+    {
+        "PDBcode": "2ldz_1.ent",
+        "Sequence": "GCGACCGAGCCAGCGAAAGUUGGGAGUCGC"
+    },
+    {
+        "PDBcode": "1z31_5.ent",
+        "Sequence": "GAGGUCGGCCCGACUUCGGUCACUGCCACCUC"
+    },
+    {
+        "PDBcode": "3izd_1.ent",
+        "Sequence": "GGUCGGGUAGUGAGGGCCUUGGUCAGACGCAGCGGGCGUGCUUGUGGACUGCUUGGUGGGGCUUGCUCUGCUAGGCGGACUACUUGCGUGCCUUGUUGUAGACGGCCUUGGUAGGUCUCUUGUAGACCGUCGCUUGCUACAAUUAACGAUC"
+    },
+    {
+        "PDBcode": "2n8v_5.ent",
+        "Sequence": "GGAACAGCUGUACUGGGCAGUUACAGCAGUCGUAUGGUAACACAUGCGGCGUUCCGAAAUACCAUGCCUG"
+    },
+    {
+        "PDBcode": "6jq6.ent",
+        "Sequence": "UUACUGUGAGAAUCAGUAACAAACAUGUGGGGCUUAUAUCUAAUCUUCGGAUUAGUAUUAGUGCAGACGUUAAAACCAUGU"
+    },
+    {
+        "PDBcode": "2n6x_9.ent",
+        "Sequence": "GGUGAGUACGUAGAGUAUACUUCGGUAUACUUAUAUACUUACC"
+    },
+    {
+        "PDBcode": "5u3g.ent",
+        "Sequence": "GUGACUAGGGUUCCGGCGAAAGCCGGUCCGAGAGUUACCGACCGCCGAAAGGCGGUUACACGGCGGGAAAAAAGCCCGGGAGGA"
+    },
+    {
+        "PDBcode": "2krw_10.ent",
+        "Sequence": "CUCGGUACGAACCGAG"
+    },
+    {
+        "PDBcode": "1fqz_1.ent",
+        "Sequence": "GCCGAGUAGUGUUGGGUCGCGAAAGGC"
+    },
+    {
+        "PDBcode": "2kd8_7.ent",
+        "Sequence": "GGAUGGUUGGGGUUAGCCAUCC"
+    },
+    {
+        "PDBcode": "1fhk_14.ent",
+        "Sequence": "GGCGGUGAAAUGCC"
+    },
+    {
+        "PDBcode": "2g1g_5.ent",
+        "Sequence": "ACGGGCUCAUACCCGU"
+    },
+    {
+        "PDBcode": "1i3x_5.ent",
+        "Sequence": "GGCUGGCUGUUCGCCAGCC"
+    },
+    {
+        "PDBcode": "8fb3_B.ent",
+        "Sequence": "UGUGGUUCGCAACCAUCCCACAAAAACUAG"
+    },
+    {
+        "PDBcode": "1kks_6.ent",
+        "Sequence": "GGAAGGCCCUUUUCAGGGCCACCC"
+    },
+    {
+        "PDBcode": "4fnj.ent",
+        "Sequence": "CUGCUGGCUAAGGCAUGAAAGUGCUAUGCCUGCUG"
+    },
+    {
+        "PDBcode": "6vuh.ent",
+        "Sequence": "CUGGGUCGCAGUAACCCCAGUUAACAAAACAAG"
+    },
+    {
+        "PDBcode": "4qlm.ent",
+        "Sequence": "AUCGCUGAACGCGGGGGACCCAGGGGGCGAAUCUCUUCCGAAAGGAAGAGUAGGGUUACUCCUUCGACCCGAGCCCGUCAGCUAACCUCGCAAGCGUCCGAAGGAGAA"
+    },
+    {
+        "PDBcode": "1na2_4.ent",
+        "Sequence": "GGGCUGUUUUUCUCGCUGACUUUCAGCCCC"
+    },
+    {
+        "PDBcode": "2jrg_5.ent",
+        "Sequence": "CCUCCCUACAGGAGG"
+    },
+    {
+        "PDBcode": "2n0j_10.ent",
+        "Sequence": "GGCUGCUUGUCCUUUAAUGGUCCAGUC"
+    },
+    {
+        "PDBcode": "2khy_6.ent",
+        "Sequence": "GGGAUCACAAGUAGGACUUCGGUCCGAAUACAGAUCUC"
+    },
+    {
+        "PDBcode": "3tra.ent",
+        "Sequence": "UCCGUGAUAGUUAAGGCAGAAUGGGCGCUGUCCGUGCCAGAUGGGGCAAUUCCCCGUCGCGGAG"
+    },
+    {
+        "PDBcode": "7kub_8.ent",
+        "Sequence": "CUGCUCUACCUUCACCAUGCCAAGUGGUCCCAGGCUGCACCCAUGGCAGAAGGAGGGCAG"
+    },
+    {
+        "PDBcode": "2kx8_9.ent",
+        "Sequence": "GGGAAAUGAGGCGCUGCAUGUGGCAGUCUGCCUUUCUUUCCC"
+    },
+    {
+        "PDBcode": "6ugg_A.ent",
+        "Sequence": "GGAGCGGUAGUUCAGUCGGUUAGAAUACCUGCCUGUCACGCAGGGGGUCGCGGGUUCGAGUCCCGUCCGUUCCGCCA"
+    },
+    {
+        "PDBcode": "4qk9.ent",
+        "Sequence": "CGCUGAAUUCCCUGAAGGGAAACGGGGGACCCAAUGGGGUGAAUCCCACGUAAGUGGGUAGGGCUAGUCUCUUUCGGCCCGAACCCGUCAGCUAACCUCGUAAGCGUGGAAAGAGG"
+    },
+    {
+        "PDBcode": "28sr_1.ent",
+        "Sequence": "GGCGUCAGGUCCGGAAGGAAGCAGCGCC"
+    },
+    {
+        "PDBcode": "5wq1_3.ent",
+        "Sequence": "GGACAUCAGAUUUCCUGGUGUCC"
+    },
+    {
+        "PDBcode": "2k4c_1.ent",
+        "Sequence": "GGGUGAUUAGCUCAGCUGGGAGAGCACCUCCCUUACAAGGAGGGGGUCGGCGGUUCGAUCCCGUCAUCACCCACCA"
+    },
+    {
+        "PDBcode": "6var_7.ent",
+        "Sequence": "GGUUCAUGUCCUACUGUUCAAGCCUCCAAGCUGUGCCUUGGGUGGCUUUGGGGCAUGGACC"
+    },
+    {
+        "PDBcode": "1xjr.ent",
+        "Sequence": "GAGUUCACCGAGGCCACGCGGAGUACGAUCGAGGGUACAGUGAAUU"
+    },
+    {
+        "PDBcode": "4znp_B.ent",
+        "Sequence": "GGGAUACAGGACUGGCGGAUUAGUGGGAAACCACGUGGACUGUAUCCGGCCGACCGCCUGGGCAUC"
+    },
+    {
+        "PDBcode": "1xwp_1.ent",
+        "Sequence": "GGAGAUCGCACUCCA"
+    },
+    {
+        "PDBcode": "6aau_12.ent",
+        "Sequence": "UAAGUGUACUGGAGUGCACUUG"
+    },
+    {
+        "PDBcode": "2rpt_6.ent",
+        "Sequence": "GGCCCGCCGAAAGGCCGGCC"
+    },
+    {
+        "PDBcode": "2l3e_2.ent",
+        "Sequence": "GGCUUUUGCUCCCCGUGCUUCGGCACGGAAAAGCC"
+    },
+    {
+        "PDBcode": "7fhi_4.ent",
+        "Sequence": "GGAUGCUUACUCAGCCAUCC"
+    },
+    {
+        "PDBcode": "2rpk_1.ent",
+        "Sequence": "GGGAUCCAUGACAGGAUCCC"
+    },
+    {
+        "PDBcode": "2o33_12.ent",
+        "Sequence": "GGUUUGCCUUUUGGCUUACC"
+    },
+    {
+        "PDBcode": "4lvv.ent",
+        "Sequence": "GGAGAGUAGAUGAUUCGCGUUAAGUGUGUGUGAAUGGGAUGUCGUCACACAACGAAGCGAGAGCGCGGUGAAUCAUUGCAUCCGCUCCA"
+    },
+    {
+        "PDBcode": "2kvn_19.ent",
+        "Sequence": "GGUGAUUGAGUUCACCA"
+    },
+    {
+        "PDBcode": "6c27_A.ent",
+        "Sequence": "GGACAAGUUCCCGAAAGGAUGGCGGAAACGCCAGAUGCCUUGUCCC"
+    },
+    {
+        "PDBcode": "7kuc_1.ent",
+        "Sequence": "GGAGGAAGGAGCCUCC"
+    },
+    {
+        "PDBcode": "1bn0_8.ent",
+        "Sequence": "GGACUAGCGGAGGCUAGUCC"
+    },
+    {
+        "PDBcode": "1rfr_13.ent",
+        "Sequence": "GGCACUCUGGUAUCACGGUACCUUUGUGUC"
+    },
+    {
+        "PDBcode": "3cw6.ent",
+        "Sequence": "CGCGGGGGGAGCAGCCUGGAGCUCGUCGGGUCAUAACCCGAAGAUCGUCGGCAAAUCCGGCCCCCGCAACCA"
+    },
+    {
+        "PDBcode": "2aht_12.ent",
+        "Sequence": "GGAGCGGGGGUGUAAACCUAUCGCUCC"
+    },
+    {
+        "PDBcode": "6cc3_A.ent",
+        "Sequence": "AAAGGGGAGUAGCGUCGGGAAACCGAAACAAAGUCGACAUACUGUGAGGAAACUCACCGGCUUUGUUGACAUACGAAAGUAUGUUUAGCAAGACCUUUCC"
+    },
+    {
+        "PDBcode": "2f87_12.ent",
+        "Sequence": "GGCUGAAGGGCC"
+    },
+    {
+        "PDBcode": "7k16.ent",
+        "Sequence": "GCAAGGUACGGCGAAAGCCGUAGGGGCUUGAGAACCCCCCCUCCCCACUC"
+    },
+    {
+        "PDBcode": "1q75_10.ent",
+        "Sequence": "GGCUCUCAGUGAGCC"
+    },
+    {
+        "PDBcode": "7elr_B.ent",
+        "Sequence": "GAGUAGAAGCGUUCAGCGGCCGAAAGGCCGCCCGGAAAUUGCUCC"
+    },
+    {
+        "PDBcode": "7ume_2.ent",
+        "Sequence": "GGCCGACAAGAACAGUUUCGAAUCGGCC"
+    },
+    {
+        "PDBcode": "7eok.ent",
+        "Sequence": "GCGCACUGGCGCUGCGCCUUCGGGCGCCAAUCGUAGCGUGUCGGCGCC"
+    },
+    {
+        "PDBcode": "7sam_1.ent",
+        "Sequence": "CGUGGUUGACACGCAGACCUCUUACAAGAGUGUCUAGGUGCCUUUGAGAGUUACUCUUUGCUCUCUUCGGAAGAACCCUUAGGGGUUCGUGCAUGGGCUUGCAUAGCAAGUCUUAGAAUGCGGGUACCGUACAGUGUUGAAAAACACUGUAAAUCUCUAAAAGAGACCA"
+    },
+    {
+        "PDBcode": "7uq6.ent",
+        "Sequence": "CGGAAGUAGUUCAGUGGUAGAACACCGGGUGGAACCCCAGGAAACUGGCCCGGGUCGCGCGGGUUCGAGUCCCGUCUUCCGCUCC"
+    },
+    {
+        "PDBcode": "2n6t_10.ent",
+        "Sequence": "GGGUAGAGUAUAAUUAGUCUUCGGACUUCCUUAUACUUAUCC"
+    },
+    {
+        "PDBcode": "2kpc_7.ent",
+        "Sequence": "UGAGCACAGUUUGCUCA"
+    },
+    {
+        "PDBcode": "5lwj_9.ent",
+        "Sequence": "GGCAGCCAGAGAGCACGUAUACGCAAGGCUGUC"
+    },
+    {
+        "PDBcode": "6gzk_9.ent",
+        "Sequence": "GGACGACUGAACCGAAAGGUUCUUGGCUGCUUCGGCAGAGGUACGUCC"
+    },
+    {
+        "PDBcode": "7lyf.ent",
+        "Sequence": "GCCCGGAUAGCUCAGUCGGUAGAGCAGCGGAGCUGUUAGUCUACGUGGACCGACAAAGACAGAUUCUUUGAGGGAGCUAAGCUCAACGUAGUUCUAACAGCUCCGCGGGUCCAGGGUUCAAGUCCCUGUUCGGGCGCCA"
+    },
+    {
+        "PDBcode": "1ajf_1.ent",
+        "Sequence": "GACAGGGGAAACUUUGUC"
+    },
+    {
+        "PDBcode": "2mfd_4.ent",
+        "Sequence": "GGCGUUCGCUUAGAACGUC"
+    },
+    {
+        "PDBcode": "6dlr.ent",
+        "Sequence": "GGAAAGUGUGUCUAGGGUUCCGCGUGCUUCGGCACGGACUGGUCCAAGUGACACAGACGCAUUCGUGCGUUACACCGGAGGGAUAGAAGCCCAGGCGGGUAGGUUU"
+    },
+    {
+        "PDBcode": "1l2x.ent",
+        "Sequence": "GCGCGGCACCGUCCGCGGAACAAACGG"
+    },
+    {
+        "PDBcode": "1mfj_7.ent",
+        "Sequence": "GACAGUCUCUACGGAGACUG"
+    },
+    {
+        "PDBcode": "1jwc_1.ent",
+        "Sequence": "GGCCCUUUUCAGGGCC"
+    },
+    {
+        "PDBcode": "7uga_20.ent",
+        "Sequence": "GGGUGUAGAAAAGUAAGGGAAACUCAAACCCCUUUCUACACCC"
+    },
+    {
+        "PDBcode": "1lux_2.ent",
+        "Sequence": "CCAGAUAAGAUUGG"
+    },
+    {
+        "PDBcode": "2a9l_1.ent",
+        "Sequence": "GGGUGACUCCAGAGGUCGAGAGACCGGAGAUAUCACCC"
+    },
+    {
+        "PDBcode": "6dvk.ent",
+        "Sequence": "GUUGAUAUGGAUUUACUCCGAGGAGACGAACUACCACGAACAGGGGAAACUCUACCCGUGGCGUCUCCGUUUGACGAGUAAGUCCUAAGUCAACA"
+    },
+    {
+        "PDBcode": "7l0z.ent",
+        "Sequence": "GGGAGUACGGUGAGGGUCGGGUCCAGUAGGUACGCCUACUGUUGAGUAGAGUGUGGGCUCCGUACUCCC"
+    },
+    {
+        "PDBcode": "1t28_1.ent",
+        "Sequence": "GGUCAUCGUUGAGAAAACGAAACAGACGGUGGCC"
+    },
+    {
+        "PDBcode": "1k6h_12.ent",
+        "Sequence": "GGCGUGUUCAGAAGAACGCGCC"
+    },
+    {
+        "PDBcode": "2pcv_8.ent",
+        "Sequence": "GGACCCGCCACUGCAGAGAUGCAAUCCAGUGGUCC"
+    },
+    {
+        "PDBcode": "1a60_14.ent",
+        "Sequence": "GGGAGCUCAACUCUCCCCCCCUUUUCCGAGGGUCAUCGGAACCA"
+    },
+    {
+        "PDBcode": "7wia.ent",
+        "Sequence": "GCGUGGUCCGUUCAAGUCGUUCCUCGAAAGAGGAACUACGGGAGACGCC"
+    },
+    {
+        "PDBcode": "7fj0_2.ent",
+        "Sequence": "GGAUGCUUACUCAGCGAUCC"
+    },
+    {
+        "PDBcode": "4k27.ent",
+        "Sequence": "GCCCCUGCCUGCCUGCAGCUAAGGAUGAAAGUCUAUGCUGCCUGCCUGCCUGGGC"
+    },
+    {
+        "PDBcode": "1q93_B.ent",
+        "Sequence": "GGUGCUCAGUAGGAGACGAACCGCACC"
+    },
+    {
+        "PDBcode": "2cky_A.ent",
+        "Sequence": "GGGACCAGGGGUGCUUGUUCACAGGCUGAGAAAGUCCCUUUGAACCUGAACAGGGUAAUGCCUGCGCAGGGAGUGUC"
+    },
+    {
+        "PDBcode": "6dmd_B.ent",
+        "Sequence": "GAAGUGUACCUAGGGAUCCACCUCGAGAGAGGAAGGACCAAGCGGUACAGGCCUACUUCGGUAGGUUACACCGUGGGGAUAAAAGACCCGUGGCAAGUUU"
+    },
+    {
+        "PDBcode": "2l9e_3.ent",
+        "Sequence": "GCAGACUUUAUCUGC"
+    },
+    {
+        "PDBcode": "2m22_16.ent",
+        "Sequence": "GGCAGAUCUGUAAUAGAACUGCC"
+    },
+    {
+        "PDBcode": "7vnw_A.ent",
+        "Sequence": "GGGCCGUCUCACUGGUUAGGACCCGCCUACAAGGCGGAGGUUGGGUGUCCCAGCGGGCCCACCA"
+    },
+    {
+        "PDBcode": "2n3q_4.ent",
+        "Sequence": "GCAGCAGGGAACUCACGCUUGCGUAGAGGCUAAGUGCUUCGGCACAGCACAAGCCCGCUGCG"
+    },
+    {
+        "PDBcode": "2mer_10.ent",
+        "Sequence": "GGCCGAACAAACGGUC"
+    },
+    {
+        "PDBcode": "6y3g.ent",
+        "Sequence": "GCCCGGAAGCUCAGCGGAGAGCAGGGGAUGAAAACCCCGUGCCUUGGCGAUUCCGAGUCCGGGCACC"
+    },
+    {
+        "PDBcode": "2m4w_3.ent",
+        "Sequence": "GGAAUCGAAAGAUGUCC"
+    },
+    {
+        "PDBcode": "1jtj_1.ent",
+        "Sequence": "CUUGCUGAAGCACGCACGGCAAG"
+    },
+    {
+        "PDBcode": "1fmn_4.ent",
+        "Sequence": "GGCGUGUAGGAUAUGCUUCGGCAGAAGGACACGCC"
+    },
+    {
+        "PDBcode": "6d3p.ent",
+        "Sequence": "GGGCGUAACCUCCAUCCGAGUUGCAAGAGAGGGAAACGCAGUCUC"
+    },
+    {
+        "PDBcode": "2miy_14.ent",
+        "Sequence": "GCUUGGUGCUUAGCUUCUUUCACCAAGCAUAUUACACGCGGAUAACCGCCAAAGGAGAA"
+    },
+    {
+        "PDBcode": "5kqe_12.ent",
+        "Sequence": "GGGUGUACUUAACGUUUGCUUCGGCAAACUACAUCC"
+    },
+    {
+        "PDBcode": "1e95_9.ent",
+        "Sequence": "GCGGCCAGCUCCAGGCCGCCAAACAAUAUGGAGCAC"
+    },
+    {
+        "PDBcode": "4kqy.ent",
+        "Sequence": "GUUCUUAUCAAGAGAAGCAGAGGGACUGGCCCGACGAAGCUUCAGCAACCGGUGUAAUGGCGAAAGCCAUGACCAAGGUGCUAAAUCCAGCAAGCUCGAACAGCUUGGAAGAUAAGAAC"
+    },
+    {
+        "PDBcode": "7q6l_18.ent",
+        "Sequence": "GGGCCAUAGGGUGGGAUCUGGG"
+    },
+    {
+        "PDBcode": "1p5n_12.ent",
+        "Sequence": "GGCAGAAAGCGUCUAGCCAUGGCGUUAGUAUGCC"
+    },
+    {
+        "PDBcode": "1atv_3.ent",
+        "Sequence": "GGGACCAGAAGGUCCCG"
+    },
+    {
+        "PDBcode": "6ez0_6.ent",
+        "Sequence": "GGAGCGGGGGGAAACCACGCCC"
+    },
+    {
+        "PDBcode": "1c2x_1.ent",
+        "Sequence": "UGCCUGGCGGCCGUAGCGCGGUGGUCCCACCUGACCCCAUGCCGAACUCAGAAGUGAAACGCCGUAGCGCCGAUGGUAGUGUGGGGUCUCCCCAUGCGAGAGUAGGGAACUGCCAGGCAU"
+    },
+    {
+        "PDBcode": "2awq_4.ent",
+        "Sequence": "GGGGAUGAAAAUCCCC"
+    },
+    {
+        "PDBcode": "6n2v_A.ent",
+        "Sequence": "GCUUGGGGAGUAGCCUGCUUUCGGAAACGAAAGCGCCUGUAUCAACAUACUCGGCGAAAGCCGUGGUGCAGGACCGAAAGGUCUGGCGAGACCAGGCC"
+    },
+    {
+        "PDBcode": "1c0o_1.ent",
+        "Sequence": "GGGUCUUCGGGUCC"
+    },
+    {
+        "PDBcode": "7mkt.ent",
+        "Sequence": "GUGUGUGUGUGUGUGUGUGUGUG"
+    },
+    {
+        "PDBcode": "1rng_3.ent",
+        "Sequence": "GGCGCUUGCGUC"
+    },
+    {
+        "PDBcode": "5o62_B.ent",
+        "Sequence": "CGGACGAGGUGCGCCGUACCCGGAGACGGGC"
+    },
+    {
+        "PDBcode": "2m21_2.ent",
+        "Sequence": "GGCGAUACACUAUUUAUCGCC"
+    },
+    {
+        "PDBcode": "3dhs.ent",
+        "Sequence": "GUUAAUCAUGCUCGGGUAAUCGCUGCGGCCGGUUUCGGCCGUAGAGGAAAGUCCAUGCUCGCACGGUGCUGAGAUGCCCGUGCGAGAAACCCAAAAGGGGCACCUUCCCGAAGGAAAUGAACGGAGGGAAGGACAGGCGGCGCAUGCAGCCUGUAGAUAGAUGAUUACCGCCGGAGUACGAAGGUACAGAACAUGGCUUAUAGAGCAUGAUUAAC"
+    },
+    {
+        "PDBcode": "2ldt_9.ent",
+        "Sequence": "GGGGAGUACGGCCGCAAGGUUAAAACUCCCC"
+    },
+    {
+        "PDBcode": "2ljj_10.ent",
+        "Sequence": "GGCCUCAGCACUACCCCAGUGUAGGUC"
+    },
+    {
+        "PDBcode": "1zc5_3.ent",
+        "Sequence": "GGCGAUCUGGCCUUCCUACAAGGGAAGGCCAGGGAAUUGCC"
+    },
+    {
+        "PDBcode": "4gxy.ent",
+        "Sequence": "GCGGCAGGUGCUCCCGACGUCGGGAGUUAAAAGGGAAGCCGGUGCAAGUCCGGCACGGUCCCGCCACUGUGACGGGGAGUCGCCCCUCGGGAUGUGCCACUGGCCCGGCCGGGAAGGCGGAGGGGCGGCGAGGAUCCGGAGUCAGGAAACCUGCCUGCCGU"
+    },
+    {
+        "PDBcode": "2qus_B.ent",
+        "Sequence": "GGAGCCCUGUCACCGGAUGUGCUUUCCGGUCUGAUGAGUCCGUGAGGACAAAACAGGGCUCCCGAAUU"
+    },
+    {
+        "PDBcode": "5dun.ent",
+        "Sequence": "UUUUAAUGAAGCCACAGGCUGUGAGGGUCCUAAGCCCCUAAUUCAGAAGGGAA"
+    },
+    {
+        "PDBcode": "2lbr_5.ent",
+        "Sequence": "GGGGACUGUAACCCC"
+    },
+    {
+        "PDBcode": "1vop_24.ent",
+        "Sequence": "GACUGGGGCGGUC"
+    },
+    {
+        "PDBcode": "2kye_12.ent",
+        "Sequence": "GAGAGGGGCCC"
+    },
+    {
+        "PDBcode": "5n5c_8.ent",
+        "Sequence": "AUUCCUUAAAUUAAGGAGU"
+    },
+    {
+        "PDBcode": "2f88_6.ent",
+        "Sequence": "GAGCCGUGUGCGAUGAAAGUCGCAAGCACGGUUC"
+    },
+    {
+        "PDBcode": "17ra_6.ent",
+        "Sequence": "GGCGUAAGGAUUACCUAUGCC"
+    },
+    {
+        "PDBcode": "1roq_6.ent",
+        "Sequence": "GGUAUCACGGUACC"
+    },
+    {
+        "PDBcode": "7kud_8.ent",
+        "Sequence": "GGUUUCGGGAACC"
+    },
+    {
+        "PDBcode": "6xxb_5.ent",
+        "Sequence": "GGAAAUUAUAUUAAUUUCC"
+    },
+    {
+        "PDBcode": "1n66_9.ent",
+        "Sequence": "GGACCUCUCGAAAGAGUUGUCC"
+    },
+    {
+        "PDBcode": "2li4_1.ent",
+        "Sequence": "GGACCGAUAAGGUAGAAAUGCCUUAUCGGUCC"
+    },
+    {
+        "PDBcode": "7exy_8.ent",
+        "Sequence": "UUGGUUUGAUUCCAAG"
+    },
+    {
+        "PDBcode": "5kmz_4.ent",
+        "Sequence": "AACCUUCACCAAUUAGGUUCAAAUAAGUGGU"
+    },
+    {
+        "PDBcode": "1ymo_17.ent",
+        "Sequence": "GGGCUGUUUUUCUCGCUGACUUUCAGCCCCAAACAAAAAAGUCAGCA"
+    },
+    {
+        "PDBcode": "2gv3_10.ent",
+        "Sequence": "GGCCAGACUCCCGAAUCUGGCC"
+    },
+    {
+        "PDBcode": "3t4b.ent",
+        "Sequence": "CCUCCCGGGAGAGCCGCUAAGGGGGAAACUCUAUGCGGUACUGCCUGAUAGGGUGCUUGCGAGUGCCCCGGGAGGUCUCGUAG"
+    },
+    {
+        "PDBcode": "2ktz_6.ent",
+        "Sequence": "GGAGGAACUACUGUCUUCCUUCGGGUCGUGCAGCCUCC"
+    },
+    {
+        "PDBcode": "3rg5_B.ent",
+        "Sequence": "GCCCGGAUGAUCCUCAGUGGUCUGGGGUGCAGGCUUCAAACCUGUAGCUGUUUAGCGACAGAGUGGUUCAAUUCCACCUUUCGGGC"
+    },
+    {
+        "PDBcode": "2kzl_4.ent",
+        "Sequence": "GGGAGUAAAGAUUGAGACAAGUAGGACUUCGGUCCGAAUACACUCAUGAACUCCC"
+    },
+    {
+        "PDBcode": "5lsn_3.ent",
+        "Sequence": "CCUCGUGGUGGUUGUGAACCACCAUGUGG"
+    },
+    {
+        "PDBcode": "1qwb_11.ent",
+        "Sequence": "GGACACGAAAUCCCGAAGUAGUGUCC"
+    },
+    {
+        "PDBcode": "7dd4_7.ent",
+        "Sequence": "GGUCUCUCUUCGGGGAACCCACUGCGAAAGUAGUGU"
+    },
+    {
+        "PDBcode": "2qwy_C.ent",
+        "Sequence": "GCGCGGCGAUUUAACCGUAUUGCAGUCGCGUGAUAAAUGUAGCUAAAAAGGA"
+    },
+    {
+        "PDBcode": "2b7g_8.ent",
+        "Sequence": "GGAGGCUCUGGCAGCUUUC"
+    },
+    {
+        "PDBcode": "1m5l_6.ent",
+        "Sequence": "GCGCAGGACUCGGCUUCUUCGGAAGGGACGAGGGGCGC"
+    },
+    {
+        "PDBcode": "1r7w_20.ent",
+        "Sequence": "GGAGGACAUCCCUCACGGGUGACCGUGGUCCUCC"
+    },
+    {
+        "PDBcode": "5d5l_B.ent",
+        "Sequence": "GAAGGCCGAAAGGUCUUCCACGACGAUACUUAUUUCCUUUGAUCGUCGUUAUUACUGGCUUCGGCCACAAAGGAGA"
+    },
+    {
+        "PDBcode": "1k4b_19.ent",
+        "Sequence": "GGUUCAGUUGAACC"
+    },
+    {
+        "PDBcode": "6xrz_10.ent",
+        "Sequence": "GUUUUUAAACGGGUUUGCGGUGUAAGUGCAGCCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUAUACAGGGCUUUUG"
+    },
+    {
+        "PDBcode": "4y1m_A.ent",
+        "Sequence": "GAUUUGGGGAGUAGCCGAUUUGUACGUGUCAACAUUUUCGUUGAAAAACGUGGCACGUACAGGCGAGACCAUAUCC"
+    },
+    {
+        "PDBcode": "5kpy.ent",
+        "Sequence": "GGACACUGAUGAUCGCGUGGAUAUGGCACGCAUUGAAUUGUUGGACACCGUAAAUGUCCUAACACGUGUCC"
+    },
+    {
+        "PDBcode": "5ny8_A.ent",
+        "Sequence": "CCGGACGAGGUGCGCCGUACCCGGUCAGGACAAGACGGGC"
+    },
+    {
+        "PDBcode": "1txs_19.ent",
+        "Sequence": "GGGCUAGCACUCUGGUAUUACGGUACCUUUGUGCGCCC"
+    },
+    {
+        "PDBcode": "1s34_5.ent",
+        "Sequence": "GGGGAGUGGUUUGUAUCCUUCCC"
+    },
+    {
+        "PDBcode": "1slp_15.ent",
+        "Sequence": "UUACCCAAGUUUGAGGUAA"
+    },
+    {
+        "PDBcode": "2lkr_10.ent",
+        "Sequence": "GGCAAUACAGAGAUGAUCAGCAGUUCCCCUGCAUAAGGAUGAACCGUUUUACAAAGAGAUUUCUUCGGGAAUCUCUUUGCCUUUUGGCUUAGAUCAAGUGUAGUAUCUGUC"
+    },
+    {
+        "PDBcode": "1zif_4.ent",
+        "Sequence": "GGGCGAAAGCCU"
+    },
+    {
+        "PDBcode": "6u79_7.ent",
+        "Sequence": "GGUUUCUUAGCACGAAGAUCUCGAUGUCUAAGAAACC"
+    },
+    {
+        "PDBcode": "5ml7_B.ent",
+        "Sequence": "GGGUCGCCGAUGUGCAGCAUAGGUAGGAGACACUACACAGGUACCCGCGCUAGCGGGCCACCGAGUCAACAGUGAAAUACUACCCGUCGGUGACC"
+    },
+    {
+        "PDBcode": "6mxq_3.ent",
+        "Sequence": "GGCAGUAUAGUCCGAACUGCAACUUCGGUUCACCUUCUCUCUAACUGCC"
+    },
+    {
+        "PDBcode": "2lbl_6.ent",
+        "Sequence": "GGGACCUUCCAAGUCUC"
+    },
+    {
+        "PDBcode": "1fl8_4.ent",
+        "Sequence": "UCAGACUUUACUGA"
+    },
+    {
+        "PDBcode": "1f9l_1.ent",
+        "Sequence": "GGCGAAGUCGAAAGAUGGCGCC"
+    },
+    {
+        "PDBcode": "6od9_A.ent",
+        "Sequence": "GUUAUAUGACUGACGGAACGUGGAAUUAACCACAUGAAGUAUAACGGCCGACCGUCUGGGCG"
+    },
+    {
+        "PDBcode": "1rmn.ent",
+        "Sequence": "GCGCUCUGAUGAGGCCGCAAGGCCGAAACUGCCGCAAGGCAGUCAGCGC"
+    },
+    {
+        "PDBcode": "1esy_11.ent",
+        "Sequence": "GGCGACUGGUGAGUACGCC"
+    },
+    {
+        "PDBcode": "1u9s.ent",
+        "Sequence": "GGUGCCAGGUAACGCCUGGGCGGGGUAACCCGACGGAAAGUGCCACAGAGAAGAGACCGCCAGCGGCCGGGGCCCCGGUGCGGGCAAGGGUGAAACGGCGGGGUAAGAGCCCACCGCCUGGCCUGGCAACAGGCCGGGGCACGGCAAACCCCACC"
+    }
+]
